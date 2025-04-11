@@ -1,0 +1,33 @@
+---
+title: "[Randi Bolt](https://www.randibolt.com)"
+subtitle: "Paid Leave Analytics Supervisor"
+format:
+  revealjs:
+    theme: simple
+    incremental: true 
+    logo: img/PaidLeaveOregonLogo.jpeg
+    footer: PechaKucha.netlify.app
+---
+
+## 
+
+
+
+## 
+
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
